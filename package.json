@@ -1,0 +1,17 @@
+{
+  "name": "mongoplayground",
+  "version": "1.0.0",
+  "description": "Tutorial \"Local Library\" website written in in Node/Express.",
+  "main": "populate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "luxon": "^3.0.4",
+    "mongoose": "^6.6.7"
+  }
+}
